@@ -1,0 +1,8 @@
+﻿  ATM Project.cpp
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(91,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(244,25): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(345,34): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(174): warning C4715: 'FindClientStructByAccountNumber': not all control paths return a value
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(252): warning C4715: 'DepositBalanceToClientByAccountNumber': not all control paths return a value
+C:\Users\user\Desktop\ATM Project\ATM Project.cpp(317): warning C4715: 'NormalWithdraw': not all control paths return a value
+  ATM Project.vcxproj -> C:\Users\user\Desktop\ATM Project\x64\Debug\ATM Project.exe
